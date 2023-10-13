@@ -5,7 +5,7 @@ My current dotfiles for Gentoo
 i3, picom, bumblebee-status, rofi, kitty, pywal, Tamzen font
 
 # Optional
-qutebrowser, cava
+qutebrowser, cava, tty-clock
 
 # First installing
 Update symlink in .config/qutebrowser/colors.yml so it matches your username\
