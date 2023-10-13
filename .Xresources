@@ -2,7 +2,3 @@
 
 Xcursor.theme: gentoo
 Xcursor.size: 20
-URxvt*font: xft:Tamzen:pixelsize=19:antialias=true:hinting=true
-URxvt.scrollBar: false
-URxvt.scrollBar_right: false
-URxvt.scrollBar_floating: false
