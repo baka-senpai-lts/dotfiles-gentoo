@@ -23,12 +23,8 @@ font Tamzen 8
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
 
-exec --no-startup-id xrandr --output DP-2 --right-of HDMI-0 --mode 1920x1080 --rate 144
 exec --no-startup-id xrdb ~/.Xresourcers
 
-exec --no-startup-id setxkbmap -layout us,ru -option grp:ctrl_shift_toggle
-
-exec --no-startup-id xset r rate 200 100
 exec --no-startup-id xset s 0 0
 exec --no-startup-id "xset -dpms; xset s off"
 
