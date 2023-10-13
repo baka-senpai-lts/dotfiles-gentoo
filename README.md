@@ -2,7 +2,7 @@
 My current dotfiles for Gentoo
 
 # Needed
-i3, picom, bumblebee-status, rofi, kitty, pywal
+i3, picom, bumblebee-status, rofi, kitty, pywal, Tamzen font
 
 # Optional
 qutebrowser, cava
